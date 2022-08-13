@@ -3,6 +3,11 @@
 Adds to Python an `Option` container class that handles seamlessly NoneType checks in a monadic way. Similar to `Option`
 in Rust or `Optional` in Java, but it also overloads every operator for a smooth use without worries.
 
+## Install
+```commandline
+pip install opt4py
+```
+
 ## Usage
 ```python
 >>> from opt4py import Option
