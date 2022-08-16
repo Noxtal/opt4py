@@ -56,4 +56,4 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 urllib3==1.26.9
     # via requests
-m2r2==0.3.3
+m2r2
