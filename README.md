@@ -4,7 +4,7 @@ Adds to Python an `Option` container class that handles seamlessly NoneType chec
 in Rust or `Optional` in Java, but it also overloads every operator for a smooth use without worries.
 
 ## Install
-```commandline
+```bash
 pip install opt4py
 ```
 
