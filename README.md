@@ -1,4 +1,5 @@
 # opt4py
+[![Documentation Status](https://readthedocs.org/projects/opt4py/badge/?version=latest)](https://opt4py.readthedocs.io/en/latest/?badge=latest)
 
 Adds to Python an `Option` container class that handles seamlessly NoneType checks in a monadic way. Similar to `Option`
 in Rust or `Optional` in Java, but it also overloads every operator for a smooth use without worries.
